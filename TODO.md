@@ -2,6 +2,7 @@
 
 ##GENERAL TASKS:
 - [X] feat(html) create general structure
+- [X] feat(xcf) create mobile mockup
 - [ ] feat(html): add meta tags
 - [ ] feat(xcf, png): add favicon
 - [ ] feat(xcf, png): add og image
@@ -12,7 +13,7 @@
 
 
 #NAVIGATION:
-- [ ] feat(html, css) add header
+- [X] feat(html, css) add header
 - [ ] feat(html, png) add header assets
 - [ ] feat(html, css) add footer
 
@@ -29,3 +30,7 @@
 - [ ] feat(html) adjust responsiveness for mobile
 - [ ] feat(html) adjust responsiveness for tablet
 - [ ] feat(html) adjust responsiveness for desktop
+
+
+Form page name: /contact
+Booking page name: /book
