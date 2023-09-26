@@ -14,6 +14,7 @@
 
 #NAVIGATION:
 - [X] feat(html, css) add header
+- [X] feat(html, css) remove navigation from header
 - [ ] feat(html, png) add header assets
 - [ ] feat(html, css) add footer
 
