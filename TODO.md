@@ -22,12 +22,13 @@
 - [X] feat(html, css): create containers and add draft info text + form container
 - [X] feat(html, css): finalize info text
 - [X] feat(css): stylize info text to accord with mobile mockup
-- [ ] feat(html, css): embedd formspree form
+- [X] feat(html): embed form
     Name: Text input for the visitor's name.
     Email: Text input for the visitor's email.
     Interested In: A dropdown or set of radio buttons where the visitor can choose whether they're interested in "Art," "Development," or "Both."
     Message: A textarea for a personalized message.
     Submit: A submit button to send the form.
+- [ ] feat(css): stylize form to accord with mobile mockup
 - [ ] feat(html): add redirection to booking page upon form submission
 
 #REPONSIVENESS:
