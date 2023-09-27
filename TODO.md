@@ -19,14 +19,15 @@
 - [X] feat(html, css) add footer
 
 #MAIN:
-- [ ] feat(html, css) create containers and add draft info text + form container
-- [ ] feat(html, css) embedd formspree form
+- [X] feat(html, css): create containers and add draft info text + form container
+- [X] feat(html, css): finalize info text
+- [ ] feat(html, css): embedd formspree form
     Name: Text input for the visitor's name.
     Email: Text input for the visitor's email.
     Interested In: A dropdown or set of radio buttons where the visitor can choose whether they're interested in "Art," "Development," or "Both."
     Message: A textarea for a personalized message.
     Submit: A submit button to send the form.
-- [ ] feat(html) add redirection to booking page upon form submission
+- [ ] feat(html): add redirection to booking page upon form submission
 
 #REPONSIVENESS:
 - [ ] feat(html) adjust responsiveness for mobile
