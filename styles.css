@@ -31,8 +31,9 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 5%;
+    font-size: x-small;
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #info-container {
@@ -41,10 +42,9 @@ main {
     padding-left: 5%;
     padding-right: 5%;
     grid-column: 1 / 2;
+    display: grid;
+    /* row-gap: 1%; */
     color: #3399ff;
-
-    background-color: black;
-    border: 1px solid red;
 }
 
 #form-container {
@@ -53,6 +53,31 @@ main {
     grid-column: 2 / 3;
     align-self: center;
     background-color: #3399ff;
+}
+
+.subsequent-list-item {
+    padding-top: 2%;
+}
+
+hr {
+    background-color: #3399ff;
+    height: 8%;
+}
+
+#pricing-info-title {
+    /* padding-top: 4%; */
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.example {
+    font-size: 0.5rem;
+}
+
+.note {
+    font-size: 0.5rem;
 }
 
 footer {

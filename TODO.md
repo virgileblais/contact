@@ -21,6 +21,7 @@
 #MAIN:
 - [X] feat(html, css): create containers and add draft info text + form container
 - [X] feat(html, css): finalize info text
+- [X] feat(css): stylize info text to accord with mobile mockup
 - [ ] feat(html, css): embedd formspree form
     Name: Text input for the visitor's name.
     Email: Text input for the visitor's email.
