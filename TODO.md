@@ -3,6 +3,7 @@
 ##GENERAL TASKS:
 - [X] feat(html) create general structure
 - [X] feat(xcf) create mobile mockup
+- [X] feat(xcf) adjust header sizing on mobile mockup
 - [ ] feat(html): add meta tags
 - [ ] feat(xcf, png): add favicon
 - [ ] feat(xcf, png): add og image
@@ -15,13 +16,10 @@
 #NAVIGATION:
 - [X] feat(html, css) add header
 - [X] feat(html, css) remove navigation from header
-- [ ] feat(html, png) add header assets
 - [X] feat(html, css) add footer
 
-#
-
-
-#FORM:
+#MAIN:
+- [ ] feat(html, css) create containers and add draft info text + form container
 - [ ] feat(html, css) embedd formspree form
     Name: Text input for the visitor's name.
     Email: Text input for the visitor's email.
