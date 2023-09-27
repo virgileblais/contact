@@ -24,7 +24,7 @@
 - [X] feat(css): stylize info text to accord with mobile mockup
 - [X] feat(html): embed form
 - [X] feat(html, css): stylize form to accord with mobile mockup
-- [ ] feat(html, css): add form title and profile picture
+- [X] feat(xcf, html, css): add form title and profile picture
 - [ ] feat(html): add redirection to booking page upon form submission
 
 #REPONSIVENESS:

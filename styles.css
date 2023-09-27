@@ -67,14 +67,36 @@ hr {
     font-size: 0.5rem;
 }
 
+#form-section {
+    grid-column: 2 / 3;
+    align-self: center;
+}
+
+#form-title-container {
+    display: grid;
+    padding-bottom: 0.5rem;
+
+    /* border: 1px solid red; */
+}
+
+#title {
+    grid-column: 1 / 2;
+    color: #3399ff;
+    align-self: center;
+}
+
+#profile-picture {
+    width: 4rem;
+    grid-column: 2 / 3;
+}
+
 #form-container {
     width: 100%;
     height: auto;
-    grid-column: 2 / 3;
-    align-self: center;
     background-color: #3399ff;
     color: white;
     border-radius: 0.5rem;
+    display: grid;
     /* overflow: hidden; */
 }
 
