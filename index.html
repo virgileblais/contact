@@ -42,23 +42,15 @@
                     action="https://formspree.io/f/mknlpwlp"
                     method="POST"
                     >
-                    <label>
-                        First Name
-                        <textarea name="firstName"></textarea>
-                    </label>
-                    <label>
-                        Last Name
-                        <textarea name="lastName"></textarea>
-                    </label>
-                    <label>
-                        Email
-                        <input type="email" name="email">
-                    </label>
-                    <p>We'll discuss you project one-on-one however,</p>
-                    <label>
-                        Is there anything you want me to know now?
-                        <textarea name="message"></textarea>
-                    </label>
+                    <label for="firstName">First Name</label>
+                    <textarea id="firstName" name="firstName"></textarea>
+                    <label for="lastName">Last Name</label>
+                    <textarea id="lastName" name="lastName"></textarea>
+                    <label for="email">Email</label>
+                    <input id="email" type="email" name="email">
+                    <p>We'll discuss your project one-on-one, however:</p>
+                    <label for="message">Is there anything you want me to know now?</label>
+                    <textarea id="message" name="message"></textarea>
                     <button type="submit">Send</button>
                 </form>
             </div>
